@@ -1,5 +1,5 @@
 # Pdm_4bim
 
 ## Autores
-* Carlos Anarcon Ambrosio
+* Carlos Alarcon Ambrosio
 * Gabriele Batista Sousa
