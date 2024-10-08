@@ -4,8 +4,8 @@
 * Carlos Alarcon Ambrosio
 * Gabriele Batista Sousa
 
-## Descrição
-Esse é um trabalho requisitado pela orinetadora Aline Firmino, com objetivo de fazer um aplicativo com programação em flutter.
+## Tema do aplicativo
+O twma do aplicativo é programador de jogos __John D. Carmack__
 
 
 ## Wiki
