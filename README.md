@@ -5,7 +5,7 @@
 * Gabriele Batista Sousa
 
 ## Tema do aplicativo
-O twma do aplicativo é programador de jogos __John D. Carmack__
+O tema do aplicativo é programador de jogos __John D. Carmack__
 
 
 ## Wiki
