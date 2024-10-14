@@ -5,7 +5,7 @@
 * Gabriele Batista Sousa
 
 ## Tema do aplicativo
-O tema do nosso aplicativo é o programador de jogos e considerado um dos pais dos jogos de FPS (Frames per Second) __John D. Carmack__
+O tema do nosso aplicativo é o programador de jogos e considerado um dos pais dos jogos de FPS (First-person shooter) __John D. Carmack__
 
 
 ## Wiki
