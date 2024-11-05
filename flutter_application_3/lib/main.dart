@@ -20,16 +20,16 @@ class MyApp extends StatelessWidget {
             ),
            
             // Conteúdo sobreposto
-            const Center(
-              child: Text(
-                "Texto sobre o fundo",
-                style: TextStyle(color: Colors.white, fontSize: 24),
+            Center(
+              child:
+                Image.asset(
+                    "assets/Carmackperfil.jpg",
+                  ),
               ),
+             ],
             ),
-          ],
         ),
-      ),
-    );
+      );
   }
 }
 
