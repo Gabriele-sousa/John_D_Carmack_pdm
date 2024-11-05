@@ -18,4 +18,4 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-   -img/doom3fundo.jpg
+   - assets/doom3fundo.jpg
