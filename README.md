@@ -14,3 +14,4 @@ O tema do nosso aplicativo é o programador de jogos e considerado um dos pais d
 - <a href="https://github.com/Gabriele-sousa/John_D_Carmack_pdm/wiki/Empresas"> __Empresas__ </a>
 - <a href="https://github.com/Gabriele-sousa/John_D_Carmack_pdm/wiki/prot%C3%B3tipo-completo"> __Protótipo final__ </a>
 - <a href="https://github.com/Gabriele-sousa/John_D_Carmack_pdm/wiki/Diagrama-de-Classes"> __Diagrama de Classes__ </a>
+- <a href="https://github.com/Gabriele-sousa/John_D_Carmack_pdm/wiki/Explicação-do-APP"> __Explicação do APP__ </a>
