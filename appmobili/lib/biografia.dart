@@ -24,19 +24,19 @@ class Biografia extends StatelessWidget {
 
   final Empresa softdisk = const Empresa(
     titulo: 'SoftDisk',
-    descricao: 'Carmack trabalhou na Softdisk, uma empresa de desenvolvimento de software, onde participou na criação do jogo Commander Keen. Foi nessa empresa que conheceu John Romero e Adrian Carmack, com quem fundou a id Software em 1991.',
+    descricao: 'A Softdisk era uma empresa de software e internet sediada em Shreveport na Louisiana. Fundada em 1981, seus produtos originais eram revistas em disco que eles chamavam de magazettes. John Carmack saiu da empresa em 1991 para ser cofundador da Id Software.',
     img: '../img/softdisk.png',
   );
   
   final Empresa oculus = const Empresa(
     titulo: 'Oculus',
-    descricao: 'Carmack foi cofundador da id Software, empresa que criou os jogos Doom e Quake.',
+    descricao: 'Carmack foi diretor Técnico da Oculus VR. Onde fez um papel fundamental no desenvolvimento do headset Oculus Rift. Sua experiencia em gráficos 3D e programação avançada foi essencial para criar uma experiencia imersiva que atraísse tanto gamers quanto desenvolvedores.',
     img: '../img/oculus.png',
   );
   
   final Empresa idsoftware = const Empresa(
     titulo: 'Idsoftware',
-    descricao: 'Carmack foi cofundador da id Software, empresa que criou os jogos Doom e Quake',
+    descricao: 'John Carmack, cofundador da id Software, foi uma figura crucial na revolução dos jogos em primeira pessoa. Ele não apenas contribuiu para a criação de clássicos como Doom 3 e Quake 4, mas também foi pioneiro na implementação de gráfico 3D, moldando o futuro da indústria.',
     img: '../img/Id_software_logo.png',
   );
 
